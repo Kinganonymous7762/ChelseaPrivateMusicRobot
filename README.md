@@ -5,7 +5,7 @@ Based on python-telegram-bot and telethon.
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Kinganonymous7762/ChelseaRobotPrivate">
+        <a href="https://heroku.com/deploy?template=https://github.com/Kinganonymous7762/ChelseaPrivateMusicRobot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
